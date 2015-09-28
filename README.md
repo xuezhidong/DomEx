@@ -27,7 +27,7 @@ For users who want to predict domain boundaries by ThreaDom:
    (2)excute ./DomEx.pl -seqname Targetname 
 
 About Domain nonreduntant library:
-   The library file is too large to upload to github. User can extract the single domain library from CATH,SCOP,Pfam for themselves, or downlaod from http://isyslab.info/DomEx.   
+   This library file is too large to upload to github. Users can extract the single domain library from CATH,SCOP,Pfam, or downlaod from http://isyslab.info/DomEx.   
 
 zhidong xue
 zdxue@hust.edu.cn
