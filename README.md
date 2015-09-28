@@ -25,7 +25,9 @@ For users who want to predict domain boundaries by ThreaDom:
    (1)Download ThreaDom package from http://zhanglab.ccmb.med.umich.edu/ThreaDom/ , or subimit your sequence online.
    (2)copy prediction result to Targetname.sd( for example T50.sd)
    (2)excute ./DomEx.pl -seqname Targetname 
-      
+
+About Domain nonreduntant library:
+   The library file is too large to upload to github. User can extract the single domain library from CATH,SCOP,Pfam for themselves, or downlaod from http://isyslab.info/DomEx.   
 
 zhidong xue
 zdxue@hust.edu.cn
